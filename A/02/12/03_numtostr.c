@@ -3,9 +3,9 @@
 
 int main()
 {
-   int n;
-   scanf("%d",&n);
-   switch(n){
+   int num;
+   scanf("%d",&num);
+   switch(num){
     case 0: printf("zero"); break;
     case 1: printf("one"); break;
     case 2: printf("two"); break;
